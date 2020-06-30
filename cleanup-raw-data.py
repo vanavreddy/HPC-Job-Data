@@ -13,15 +13,17 @@ with open('data.csv', 'w') as words:
     with open('/Users/vanareddy/Job-Data/file1.csv') as jobs:                                                                                          
         job_reader = csv.reader(jobs, delimiter=';')
         for job in job_reader:
-            print(job[3])
+            job = job[3].replace('Resource_List.', '').replace(':', ' ')
+            print(job)
+            '''
             for words in job: 
                 space_words = re.split('\.', words)
                 print(space_words)
-                '''
+                
                 for word in split_words:
                     print(word.split(':'))
                     writer.writerow(word.split(':'))
-                '''
+            '''
             print("----")
                 
                 
