@@ -1,0 +1,515 @@
+12/03/2017 00:00:16;Q;550141.m1.mason;queue=batch
+12/03/2017 00:00:17;Q;550145.m1.mason;queue=batch
+12/03/2017 00:00:17;Q;550142.m1.mason;queue=batch
+12/03/2017 00:00:17;Q;550143.m1.mason;queue=batch
+12/03/2017 00:00:17;Q;550144.m1.mason;queue=batch
+12/03/2017 00:02:20;S;550141.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56513-broadtest queue=batch ctime=1512277216 qtime=1512277216 etime=1512277216 start=1512277340 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56513/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:02:20;S;550142.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56514-broadtest queue=batch ctime=1512277216 qtime=1512277217 etime=1512277217 start=1512277340 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56514/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:02:20;S;550143.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56509-broadtest queue=batch ctime=1512277216 qtime=1512277217 etime=1512277217 start=1512277340 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/2 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56509/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=12gb Resource_List.walltime=08:00:00 
+12/03/2017 00:02:20;S;550144.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56512-broadtest queue=batch ctime=1512277216 qtime=1512277217 etime=1512277217 start=1512277340 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56512/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=20gb Resource_List.walltime=08:00:00 
+12/03/2017 00:02:20;S;550145.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56511-broadtest queue=batch ctime=1512277216 qtime=1512277216 etime=1512277216 start=1512277340 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/4 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56511/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=28gb Resource_List.walltime=08:00:00 
+12/03/2017 00:02:50;E;550142.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56514-broadtest queue=batch ctime=1512277216 qtime=1512277217 etime=1512277217 start=1512277340 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56514/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=2688 total_execution_slots=1 unique_node_count=1 end=1512277370 Exit_status=0 resources_used.cput=25 resources_used.energy_used=0 resources_used.mem=96980kb resources_used.vmem=7044856kb resources_used.walltime=00:00:28
+12/03/2017 00:02:53;Q;550146.m1.mason;queue=batch
+12/03/2017 00:03:51;E;550143.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56509-broadtest queue=batch ctime=1512277216 qtime=1512277217 etime=1512277217 start=1512277340 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/2 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56509/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=12gb Resource_List.walltime=08:00:00 session=2706 total_execution_slots=1 unique_node_count=1 end=1512277431 Exit_status=0 resources_used.cput=70 resources_used.energy_used=0 resources_used.mem=335192kb resources_used.vmem=3892624kb resources_used.walltime=00:01:29
+12/03/2017 00:04:02;Q;550147.m1.mason;queue=batch
+12/03/2017 00:06:27;S;550146.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56515-broadtest queue=batch ctime=1512277373 qtime=1512277373 etime=1512277373 start=1512277587 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56515/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:06:37;S;550147.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56516-broadtest queue=batch ctime=1512277442 qtime=1512277442 etime=1512277442 start=1512277597 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/2 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56516/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=12gb Resource_List.walltime=08:00:00 
+12/03/2017 00:07:00;E;550146.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56515-broadtest queue=batch ctime=1512277373 qtime=1512277373 etime=1512277373 start=1512277587 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56515/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=3588 total_execution_slots=1 unique_node_count=1 end=1512277620 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:20
+12/03/2017 00:07:03;Q;550148.m1.mason;queue=batch
+12/03/2017 00:07:16;Q;550149.m1.mason;queue=batch
+12/03/2017 00:08:05;D;550149.m1.mason;requestor=NagQGqNT1g2mQ@h2
+12/03/2017 00:08:07;Q;550150.m1.mason;queue=batch
+12/03/2017 00:08:48;E;550141.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56513-broadtest queue=batch ctime=1512277216 qtime=1512277216 etime=1512277216 start=1512277340 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56513/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=2677 total_execution_slots=1 unique_node_count=1 end=1512277728 Exit_status=0 resources_used.cput=383 resources_used.energy_used=0 resources_used.mem=572964kb resources_used.vmem=7044824kb resources_used.walltime=00:06:27
+12/03/2017 00:08:48;E;550144.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56512-broadtest queue=batch ctime=1512277216 qtime=1512277217 etime=1512277217 start=1512277340 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56512/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=20gb Resource_List.walltime=08:00:00 session=2729 total_execution_slots=1 unique_node_count=1 end=1512277728 Exit_status=0 resources_used.cput=373 resources_used.energy_used=0 resources_used.mem=574192kb resources_used.vmem=20087584kb resources_used.walltime=00:06:26
+12/03/2017 00:09:06;Q;550151.m1.mason;queue=batch
+12/03/2017 00:09:09;Q;550152.m1.mason;queue=batch
+12/03/2017 00:10:44;S;550150.m1.mason;user=NagQGqNT1g2mQ group=NaS4XY0YbwaE2 jobname=Jal-astral queue=batch ctime=1512277687 qtime=1512277687 etime=1512277687 start=1512277844 owner=NagQGqNT1g2mQ@h2 exec_host=c3/0 Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=16gb Resource_List.walltime=04:00:00 
+12/03/2017 00:10:54;S;550148.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56517-broadtest queue=batch ctime=1512277623 qtime=1512277623 etime=1512277623 start=1512277854 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56517/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:11:32;E;550148.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56517-broadtest queue=batch ctime=1512277623 qtime=1512277623 etime=1512277623 start=1512277854 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56517/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=4149 total_execution_slots=1 unique_node_count=1 end=1512277892 Exit_status=0 resources_used.cput=5 resources_used.energy_used=0 resources_used.mem=87840kb resources_used.vmem=1515200kb resources_used.walltime=00:00:26
+12/03/2017 00:11:34;Q;550153.m1.mason;queue=batch
+12/03/2017 00:13:00;S;550151.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56520-broadtest queue=batch ctime=1512277746 qtime=1512277746 etime=1512277746 start=1512277980 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56520/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:13:10;S;550152.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56522-broadtest queue=batch ctime=1512277749 qtime=1512277749 etime=1512277749 start=1512277990 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56522/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:13:16;E;550151.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56520-broadtest queue=batch ctime=1512277746 qtime=1512277746 etime=1512277746 start=1512277980 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56520/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=4401 total_execution_slots=1 unique_node_count=1 end=1512277996 Exit_status=0 resources_used.cput=11 resources_used.energy_used=0 resources_used.mem=33068kb resources_used.vmem=7243932kb resources_used.walltime=00:00:03
+12/03/2017 00:13:18;E;550152.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56522-broadtest queue=batch ctime=1512277749 qtime=1512277749 etime=1512277749 start=1512277990 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56522/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=4403 total_execution_slots=1 unique_node_count=1 end=1512277998 Exit_status=0 resources_used.cput=10 resources_used.energy_used=0 resources_used.mem=87840kb resources_used.vmem=1515200kb resources_used.walltime=00:00:02
+12/03/2017 00:13:21;Q;550154.m1.mason;queue=batch
+12/03/2017 00:13:32;Q;550155.m1.mason;queue=batch
+12/03/2017 00:15:16;S;550153.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56523-broadtest queue=batch ctime=1512277894 qtime=1512277894 etime=1512277894 start=1512278116 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56523/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:16:02;E;550153.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56523-broadtest queue=batch ctime=1512277894 qtime=1512277894 etime=1512277894 start=1512278116 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56523/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=4787 total_execution_slots=1 unique_node_count=1 end=1512278162 Exit_status=0 resources_used.cput=21 resources_used.energy_used=0 resources_used.mem=90744kb resources_used.vmem=3892724kb resources_used.walltime=00:00:37
+12/03/2017 00:16:05;Q;550156.m1.mason;queue=batch
+12/03/2017 00:17:17;S;550154.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56524-broadtest queue=batch ctime=1512278001 qtime=1512278001 etime=1512278001 start=1512278237 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56524/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:17:17;S;550155.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56528-broadtest queue=batch ctime=1512278012 qtime=1512278012 etime=1512278012 start=1512278237 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56528/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:17:26;E;550150.m1.mason;user=NagQGqNT1g2mQ group=NaS4XY0YbwaE2 jobname=Jal-astral queue=batch ctime=1512277687 qtime=1512277687 etime=1512277687 start=1512277844 owner=NagQGqNT1g2mQ@h2 exec_host=c3/0 Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=16gb Resource_List.walltime=04:00:00 session=4147 total_execution_slots=1 unique_node_count=1 end=1512278246 Exit_status=1 resources_used.cput=372 resources_used.energy_used=0 resources_used.mem=989296kb resources_used.vmem=9411440kb resources_used.walltime=00:06:32
+12/03/2017 00:17:29;E;550155.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56528-broadtest queue=batch ctime=1512278012 qtime=1512278012 etime=1512278012 start=1512278237 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56528/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=5336 total_execution_slots=1 unique_node_count=1 end=1512278249 Exit_status=0 resources_used.cput=7 resources_used.energy_used=0 resources_used.mem=40004kb resources_used.vmem=7044968kb resources_used.walltime=00:00:12
+12/03/2017 00:17:29;E;550154.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56524-broadtest queue=batch ctime=1512278001 qtime=1512278001 etime=1512278001 start=1512278237 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56524/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=5324 total_execution_slots=1 unique_node_count=1 end=1512278249 Exit_status=0 resources_used.cput=10 resources_used.energy_used=0 resources_used.mem=119000kb resources_used.vmem=7044968kb resources_used.walltime=00:00:12
+12/03/2017 00:17:36;Q;550157.m1.mason;queue=batch
+12/03/2017 00:17:43;Q;550158.m1.mason;queue=batch
+12/03/2017 00:19:18;S;550156.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56529-broadtest queue=batch ctime=1512278165 qtime=1512278165 etime=1512278165 start=1512278358 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56529/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:19:20;E;550156.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56529-broadtest queue=batch ctime=1512278165 qtime=1512278165 etime=1512278165 start=1512278358 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56529/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=5630 total_execution_slots=1 unique_node_count=1 end=1512278360 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:02
+12/03/2017 00:19:27;Q;550159.m1.mason;queue=batch
+12/03/2017 00:21:24;S;550157.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56531-broadtest queue=batch ctime=1512278256 qtime=1512278256 etime=1512278256 start=1512278484 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56531/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:21:24;E;548981.m1.mason;user=NarURo/1JFHnI group=NaY3rKh.TYAwA jobname=Emack_noskip queue=batch ctime=1511996758 qtime=1511996758 etime=1511996758 start=1512056289 owner=NarURo/1JFHnI@h2 exec_host=c9/0-9 Resource_List.neednodes=1:ppn=10 Resource_List.nodect=1 Resource_List.nodes=1:ppn=10 Resource_List.vmem=500gb Resource_List.walltime=100:00:00 session=77530 total_execution_slots=10 unique_node_count=1 end=1512278484 Exit_status=1 resources_used.cput=962468 resources_used.energy_used=0 resources_used.mem=2378012kb resources_used.vmem=206963864kb resources_used.walltime=61:43:13
+12/03/2017 00:21:34;S;550158.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56534-broadtest queue=batch ctime=1512278263 qtime=1512278263 etime=1512278263 start=1512278494 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56534/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:22:14;E;550157.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56531-broadtest queue=batch ctime=1512278256 qtime=1512278256 etime=1512278256 start=1512278484 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56531/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=5773 total_execution_slots=1 unique_node_count=1 end=1512278534 Exit_status=0 resources_used.cput=46 resources_used.energy_used=0 resources_used.mem=159004kb resources_used.vmem=7044976kb resources_used.walltime=00:00:40
+12/03/2017 00:22:19;Q;550160.m1.mason;queue=batch
+12/03/2017 00:22:23;E;550158.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56534-broadtest queue=batch ctime=1512278263 qtime=1512278263 etime=1512278263 start=1512278494 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56534/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=5777 total_execution_slots=1 unique_node_count=1 end=1512278543 Exit_status=0 resources_used.cput=38 resources_used.energy_used=0 resources_used.mem=73800kb resources_used.vmem=7044968kb resources_used.walltime=00:00:37
+12/03/2017 00:22:34;Q;550161.m1.mason;queue=batch
+12/03/2017 00:22:37;E;550145.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56511-broadtest queue=batch ctime=1512277216 qtime=1512277216 etime=1512277216 start=1512277340 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/4 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56511/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=28gb Resource_List.walltime=08:00:00 session=2747 total_execution_slots=1 unique_node_count=1 end=1512278557 Exit_status=0 resources_used.cput=1195 resources_used.energy_used=0 resources_used.mem=2572644kb resources_used.vmem=28782560kb resources_used.walltime=00:20:16
+12/03/2017 00:22:45;Q;550162.m1.mason;queue=batch
+12/03/2017 00:23:35;S;550159.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56535-broadtest queue=batch ctime=1512278367 qtime=1512278367 etime=1512278367 start=1512278615 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56535/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:23:37;E;550159.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56535-broadtest queue=batch ctime=1512278367 qtime=1512278367 etime=1512278367 start=1512278615 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56535/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=6058 total_execution_slots=1 unique_node_count=1 end=1512278617 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:02
+12/03/2017 00:23:41;Q;550163.m1.mason;queue=batch
+12/03/2017 00:25:36;S;550160.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56537-broadtest queue=batch ctime=1512278539 qtime=1512278539 etime=1512278539 start=1512278736 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56537/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:25:36;S;550161.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56540-broadtest queue=batch ctime=1512278554 qtime=1512278554 etime=1512278554 start=1512278736 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56540/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:25:36;S;550162.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56541-broadtest queue=batch ctime=1512278565 qtime=1512278565 etime=1512278565 start=1512278736 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56541/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:25:38;E;550160.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56537-broadtest queue=batch ctime=1512278539 qtime=1512278539 etime=1512278539 start=1512278736 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56537/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=6199 total_execution_slots=1 unique_node_count=1 end=1512278738 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:02
+12/03/2017 00:25:40;E;550161.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56540-broadtest queue=batch ctime=1512278554 qtime=1512278554 etime=1512278554 start=1512278736 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56540/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=6211 total_execution_slots=1 unique_node_count=1 end=1512278740 Exit_status=0 resources_used.cput=1 resources_used.energy_used=0 resources_used.mem=79292kb resources_used.vmem=7520920kb resources_used.walltime=00:00:04
+12/03/2017 00:25:41;Q;550164.m1.mason;queue=batch
+12/03/2017 00:25:52;Q;550165.m1.mason;queue=batch
+12/03/2017 00:25:54;E;550162.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56541-broadtest queue=batch ctime=1512278565 qtime=1512278565 etime=1512278565 start=1512278736 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56541/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=6233 total_execution_slots=1 unique_node_count=1 end=1512278754 Exit_status=0 resources_used.cput=2 resources_used.energy_used=0 resources_used.mem=104640kb resources_used.vmem=7546136kb resources_used.walltime=00:00:17
+12/03/2017 00:25:56;Q;550166.m1.mason;queue=batch
+12/03/2017 00:27:37;S;550163.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56542-broadtest queue=batch ctime=1512278621 qtime=1512278621 etime=1512278621 start=1512278857 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56542/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:27:39;E;550163.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56542-broadtest queue=batch ctime=1512278621 qtime=1512278621 etime=1512278621 start=1512278857 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56542/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=7124 total_execution_slots=1 unique_node_count=1 end=1512278859 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:02
+12/03/2017 00:27:45;Q;550167.m1.mason;queue=batch
+12/03/2017 00:29:38;S;550164.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56543-broadtest queue=batch ctime=1512278741 qtime=1512278741 etime=1512278741 start=1512278978 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56543/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:29:38;S;550165.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56546-broadtest queue=batch ctime=1512278752 qtime=1512278752 etime=1512278752 start=1512278978 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56546/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:29:38;S;550166.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56547-broadtest queue=batch ctime=1512278756 qtime=1512278756 etime=1512278756 start=1512278978 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56547/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:29:41;E;550166.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56547-broadtest queue=batch ctime=1512278756 qtime=1512278756 etime=1512278756 start=1512278978 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56547/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=7293 total_execution_slots=1 unique_node_count=1 end=1512278981 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=41980kb resources_used.vmem=7044964kb resources_used.walltime=00:00:02
+12/03/2017 00:29:42;E;550165.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56546-broadtest queue=batch ctime=1512278752 qtime=1512278752 etime=1512278752 start=1512278978 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56546/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=7274 total_execution_slots=1 unique_node_count=1 end=1512278982 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=78528kb resources_used.vmem=7520192kb resources_used.walltime=00:00:04
+12/03/2017 00:29:43;E;550164.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56543-broadtest queue=batch ctime=1512278741 qtime=1512278741 etime=1512278741 start=1512278978 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56543/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=7263 total_execution_slots=1 unique_node_count=1 end=1512278983 Exit_status=0 resources_used.cput=1 resources_used.energy_used=0 resources_used.mem=92532kb resources_used.vmem=7534944kb resources_used.walltime=00:00:04
+12/03/2017 00:29:45;Q;550168.m1.mason;queue=batch
+12/03/2017 00:29:45;Q;550169.m1.mason;queue=batch
+12/03/2017 00:29:50;Q;550170.m1.mason;queue=batch
+12/03/2017 00:31:39;S;550167.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56548-broadtest queue=batch ctime=1512278865 qtime=1512278865 etime=1512278865 start=1512279099 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56548/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:31:41;E;550167.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56548-broadtest queue=batch ctime=1512278865 qtime=1512278865 etime=1512278865 start=1512279099 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56548/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=8198 total_execution_slots=1 unique_node_count=1 end=1512279101 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:02
+12/03/2017 00:31:49;Q;550171.m1.mason;queue=batch
+12/03/2017 00:33:40;S;550168.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56550-broadtest queue=batch ctime=1512278985 qtime=1512278985 etime=1512278985 start=1512279220 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56550/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:33:40;S;550169.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56551-broadtest queue=batch ctime=1512278985 qtime=1512278985 etime=1512278985 start=1512279220 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56551/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:33:40;S;550170.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56553-broadtest queue=batch ctime=1512278990 qtime=1512278990 etime=1512278990 start=1512279220 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56553/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:33:41;E;550170.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56553-broadtest queue=batch ctime=1512278990 qtime=1512278990 etime=1512278990 start=1512279220 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56553/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=8375 total_execution_slots=1 unique_node_count=1 end=1512279221 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:01
+12/03/2017 00:33:42;E;550169.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56551-broadtest queue=batch ctime=1512278985 qtime=1512278985 etime=1512278985 start=1512279220 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56551/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=8348 total_execution_slots=1 unique_node_count=1 end=1512279222 Exit_status=0 resources_used.cput=1 resources_used.energy_used=0 resources_used.mem=127664kb resources_used.vmem=7044968kb resources_used.walltime=00:00:02
+12/03/2017 00:33:42;E;550168.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56550-broadtest queue=batch ctime=1512278985 qtime=1512278985 etime=1512278985 start=1512279220 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56550/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=8337 total_execution_slots=1 unique_node_count=1 end=1512279222 Exit_status=0 resources_used.cput=1 resources_used.energy_used=0 resources_used.mem=90760kb resources_used.vmem=7044856kb resources_used.walltime=00:00:02
+12/03/2017 00:33:49;Q;550172.m1.mason;queue=batch
+12/03/2017 00:33:51;Q;550173.m1.mason;queue=batch
+12/03/2017 00:33:54;Q;550174.m1.mason;queue=batch
+12/03/2017 00:35:41;S;550171.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56556-broadtest queue=batch ctime=1512279109 qtime=1512279109 etime=1512279109 start=1512279341 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56556/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:35:43;E;550171.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56556-broadtest queue=batch ctime=1512279109 qtime=1512279109 etime=1512279109 start=1512279341 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56556/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=8741 total_execution_slots=1 unique_node_count=1 end=1512279343 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:02
+12/03/2017 00:35:50;Q;550175.m1.mason;queue=batch
+12/03/2017 00:37:42;S;550172.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56558-broadtest queue=batch ctime=1512279229 qtime=1512279229 etime=1512279229 start=1512279462 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56558/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:37:42;S;550173.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56561-broadtest queue=batch ctime=1512279231 qtime=1512279231 etime=1512279231 start=1512279462 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56561/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:37:42;S;550174.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56562-broadtest queue=batch ctime=1512279234 qtime=1512279234 etime=1512279234 start=1512279462 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56562/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:37:44;E;550172.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56558-broadtest queue=batch ctime=1512279229 qtime=1512279229 etime=1512279229 start=1512279462 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56558/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=8878 total_execution_slots=1 unique_node_count=1 end=1512279464 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:02
+12/03/2017 00:37:44;E;550173.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56561-broadtest queue=batch ctime=1512279231 qtime=1512279231 etime=1512279231 start=1512279462 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56561/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=8889 total_execution_slots=1 unique_node_count=1 end=1512279464 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:02
+12/03/2017 00:37:47;E;550174.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56562-broadtest queue=batch ctime=1512279234 qtime=1512279234 etime=1512279234 start=1512279462 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56562/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=8910 total_execution_slots=1 unique_node_count=1 end=1512279467 Exit_status=0 resources_used.cput=1 resources_used.energy_used=0 resources_used.mem=91948kb resources_used.vmem=7532480kb resources_used.walltime=00:00:05
+12/03/2017 00:37:48;Q;550176.m1.mason;queue=batch
+12/03/2017 00:39:43;S;550175.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56564-broadtest queue=batch ctime=1512279350 qtime=1512279350 etime=1512279350 start=1512279583 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56564/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:39:46;E;550175.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56564-broadtest queue=batch ctime=1512279350 qtime=1512279350 etime=1512279350 start=1512279583 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56564/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=9542 total_execution_slots=1 unique_node_count=1 end=1512279586 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:02
+12/03/2017 00:41:44;S;550176.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56565-broadtest queue=batch ctime=1512279468 qtime=1512279468 etime=1512279468 start=1512279704 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56565/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 00:41:46;E;550176.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56565-broadtest queue=batch ctime=1512279468 qtime=1512279468 etime=1512279468 start=1512279704 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/0 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56565/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=9687 total_execution_slots=1 unique_node_count=1 end=1512279706 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:02
+12/03/2017 01:10:36;Q;550177.m1.mason;queue=batch
+12/03/2017 01:13:58;S;550177.m1.mason;user=NagQGqNT1g2mQ group=NaS4XY0YbwaE2 jobname=Jal-astral queue=batch ctime=1512281436 qtime=1512281436 etime=1512281436 start=1512281638 owner=NagQGqNT1g2mQ@h2 exec_host=c3/0 Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=16gb Resource_List.walltime=04:00:00 
+12/03/2017 01:22:45;E;550147.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56516-broadtest queue=batch ctime=1512277442 qtime=1512277442 etime=1512277442 start=1512277597 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/2 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56516/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=12gb Resource_List.walltime=08:00:00 session=3590 total_execution_slots=1 unique_node_count=1 end=1512282165 Exit_status=0 resources_used.cput=4539 resources_used.energy_used=0 resources_used.mem=88940kb resources_used.vmem=11882668kb resources_used.walltime=01:15:56
+12/03/2017 01:28:13;Q;550178.m1.mason;queue=batch
+12/03/2017 01:28:13;Q;550179.m1.mason;queue=batch
+12/03/2017 01:28:13;Q;550180.m1.mason;queue=batch
+12/03/2017 01:28:14;Q;550181.m1.mason;queue=batch
+12/03/2017 01:28:16;Q;550182.m1.mason;queue=batch
+12/03/2017 01:30:15;S;550178.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56568-broadtest queue=batch ctime=1512282493 qtime=1512282493 etime=1512282493 start=1512282615 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56568/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=12gb Resource_List.walltime=08:00:00 
+12/03/2017 01:30:15;S;550179.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56570-broadtest queue=batch ctime=1512282493 qtime=1512282493 etime=1512282493 start=1512282615 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/2 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56570/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 01:30:15;S;550180.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56571-broadtest queue=batch ctime=1512282493 qtime=1512282493 etime=1512282493 start=1512282615 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56571/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 01:31:01;E;550180.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56571-broadtest queue=batch ctime=1512282493 qtime=1512282493 etime=1512282493 start=1512282615 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/3 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56571/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=10272 total_execution_slots=1 unique_node_count=1 end=1512282661 Exit_status=0 resources_used.cput=18 resources_used.energy_used=0 resources_used.mem=76996kb resources_used.vmem=7243992kb resources_used.walltime=00:00:46
+12/03/2017 01:31:05;Q;550183.m1.mason;queue=batch
+12/03/2017 01:31:24;E;550179.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56570-broadtest queue=batch ctime=1512282493 qtime=1512282493 etime=1512282493 start=1512282615 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/2 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56570/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=10254 total_execution_slots=1 unique_node_count=1 end=1512282684 Exit_status=0 resources_used.cput=63 resources_used.energy_used=0 resources_used.mem=111592kb resources_used.vmem=3892724kb resources_used.walltime=00:01:09
+12/03/2017 01:31:51;E;550178.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56568-broadtest queue=batch ctime=1512282493 qtime=1512282493 etime=1512282493 start=1512282615 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56568/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=12gb Resource_List.walltime=08:00:00 session=10242 total_execution_slots=1 unique_node_count=1 end=1512282711 Exit_status=0 resources_used.cput=65 resources_used.energy_used=0 resources_used.mem=360424kb resources_used.vmem=1092552kb resources_used.walltime=00:01:36
+12/03/2017 01:32:16;S;550181.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56569-broadtest queue=batch ctime=1512282494 qtime=1512282494 etime=1512282494 start=1512282736 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1-6 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56569/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=6 Resource_List.nodect=1 Resource_List.nodes=1:ppn=6 Resource_List.vmem=16gb Resource_List.walltime=08:00:00 
+12/03/2017 01:32:16;S;550182.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56572-broadtest queue=batch ctime=1512282496 qtime=1512282496 etime=1512282496 start=1512282736 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/7 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56572/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 01:32:30;E;550182.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56572-broadtest queue=batch ctime=1512282496 qtime=1512282496 etime=1512282496 start=1512282736 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/7 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56572/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=11428 total_execution_slots=1 unique_node_count=1 end=1512282750 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:14
+12/03/2017 01:33:55;E;550181.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56569-broadtest queue=batch ctime=1512282494 qtime=1512282494 etime=1512282494 start=1512282736 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1-6 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56569/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=6 Resource_List.nodect=1 Resource_List.nodes=1:ppn=6 Resource_List.vmem=16gb Resource_List.walltime=08:00:00 session=11407 total_execution_slots=6 unique_node_count=1 end=1512282835 Exit_status=0 resources_used.cput=75 resources_used.energy_used=0 resources_used.mem=89980kb resources_used.vmem=825696kb resources_used.walltime=00:01:39
+12/03/2017 01:34:17;S;550183.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56573-broadtest queue=batch ctime=1512282665 qtime=1512282665 etime=1512282665 start=1512282857 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56573/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 
+12/03/2017 01:34:22;E;550183.m1.mason;user=NaDPBFNZBe9eY group=Nag7liHsBDdRU jobname=gp-job-56573-broadtest queue=batch ctime=1512282665 qtime=1512282665 etime=1512282665 start=1512282857 owner=NaDPBFNZBe9eY@c264.karst.uits.iu.edu exec_host=c3/1 Resource_List.epilogue=/N/dcwan/projects/gpserver/gp_home/jobResults/56573/.pbs/.epilogue.sh Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=8gb Resource_List.walltime=08:00:00 session=11669 total_execution_slots=1 unique_node_count=1 end=1512282862 Exit_status=0 resources_used.cput=0 resources_used.energy_used=0 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:05
+12/03/2017 02:02:03;E;550177.m1.mason;user=NagQGqNT1g2mQ group=NaS4XY0YbwaE2 jobname=Jal-astral queue=batch ctime=1512281436 qtime=1512281436 etime=1512281436 start=1512281638 owner=NagQGqNT1g2mQ@h2 exec_host=c3/0 Resource_List.neednodes=1:ppn=1 Resource_List.nodect=1 Resource_List.nodes=1:ppn=1 Resource_List.vmem=16gb Resource_List.walltime=04:00:00 session=10036 total_execution_slots=1 unique_node_count=1 end=1512284523 Exit_status=0 resources_used.cput=2869 resources_used.energy_used=0 resources_used.mem=1169472kb resources_used.vmem=9411496kb resources_used.walltime=00:48:05
+12/03/2017 05:25:10;E;550137.m1.mason;user=Na/2bFpj3SMEM group=NaY3rKh.TYAwA jobname=bwa_s2drd queue=batch ctime=1512253278 qtime=1512253278 etime=1512253278 start=1512253500 owner=Na/2bFpj3SMEM@h2 exec_host=c11/0-21 Resource_List.neednodes=1:ppn=22 Resource_List.nodect=1 Resource_List.nodes=1:ppn=22 Resource_List.vmem=64gb Resource_List.walltime=12:00:00 session=14576 total_execution_slots=22 unique_node_count=1 end=1512296710 Exit_status=-11 resources_used.cput=927849 resources_used.energy_used=0 resources_used.mem=21136596kb resources_used.vmem=22741464kb resources_used.walltime=12:00:10
+12/03/2017 14:59:59;E;544161.m1.mason;user=NaroWr44uXtpM group=Natl3pU94CyZo jobname=ortho_15sp-aurelias queue=batch ctime=1511618360 qtime=1511618360 etime=1511618360 start=1511618387 owner=NaroWr44uXtpM@h1 exec_host=c3/16-23 Resource_List.neednodes=1:ppn=8 Resource_List.nodect=1 Resource_List.nodes=1:ppn=8 Resource_List.vmem=120gb Resource_List.walltime=198:00:00 session=51297 total_execution_slots=8 unique_node_count=1 end=1512331199 Exit_status=-11 resources_used.cput=4879752 resources_used.energy_used=0 resources_used.mem=1248328kb resources_used.vmem=6977216kb resources_used.walltime=198:00:11
+12/03/2017 15:00:41;E;544164.m1.mason;user=NaroWr44uXtpM group=Natl3pU94CyZo jobname=ortho_15sp-aurelias queue=batch ctime=1511618361 qtime=1511618361 etime=1511618361 start=1511618387 owner=NaroWr44uXtpM@h1 exec_host=c12/0-7 Resource_List.neednodes=1:ppn=8 Resource_List.nodect=1 Resource_List.nodes=1:ppn=8 Resource_List.vmem=120gb Resource_List.walltime=198:00:00 session=32608 total_execution_slots=8 unique_node_count=1 end=1512331241 Exit_status=-11 resources_used.cput=4725384 resources_used.energy_used=0 resources_used.mem=3127232kb resources_used.vmem=8722344kb resources_used.walltime=198:00:52
+12/03/2017 15:00:42;E;544163.m1.mason;user=NaroWr44uXtpM group=Natl3pU94CyZo jobname=ortho_15sp-aurelias queue=batch ctime=1511618360 qtime=1511618360 etime=1511618360 start=1511618387 owner=NaroWr44uXtpM@h1 exec_host=c6/24-31 Resource_List.neednodes=1:ppn=8 Resource_List.nodect=1 Resource_List.nodes=1:ppn=8 Resource_List.vmem=120gb Resource_List.walltime=198:00:00 session=64671 total_execution_slots=8 unique_node_count=1 end=1512331242 Exit_status=-11 resources_used.cput=5178171 resources_used.energy_used=0 resources_used.mem=986244kb resources_used.vmem=6716832kb resources_used.walltime=198:00:53
+12/03/2017 15:00:42;E;544162.m1.mason;user=NaroWr44uXtpM group=Natl3pU94CyZo jobname=ortho_15sp-aurelias queue=batch ctime=1511618360 qtime=1511618360 etime=1511618360 start=1511618387 owner=NaroWr44uXtpM@h1 exec_host=c6/6-13 Resource_List.neednodes=1:ppn=8 Resource_List.nodect=1 Resource_List.nodes=1:ppn=8 Resource_List.vmem=120gb Resource_List.walltime=198:00:00 session=64651 total_execution_slots=8 unique_node_count=1 end=1512331242 Exit_status=-11 resources_used.cput=2437468 resources_used.energy_used=0 resources_used.mem=5101360kb resources_used.vmem=8129712kb resources_used.walltime=198:00:53
+12/03/2017 15:02:14;E;544160.m1.mason;user=NaroWr44uXtpM group=Natl3pU94CyZo jobname=ortho_15sp-aurelias queue=batch ctime=1511618360 qtime=1511618360 etime=1511618360 start=1511618508 owner=NaroWr44uXtpM@h1 exec_host=c3/24-31 Resource_List.neednodes=1:ppn=8 Resource_List.nodect=1 Resource_List.nodes=1:ppn=8 Resource_List.vmem=120gb Resource_List.walltime=198:00:00 session=54437 total_execution_slots=8 unique_node_count=1 end=1512331334 Exit_status=-11 resources_used.cput=5177145 resources_used.energy_used=0 resources_used.mem=1314940kb resources_used.vmem=6937252kb resources_used.walltime=198:00:25
+12/03/2017 19:08:35;E;547196.m1.mason;user=NarURo/1JFHnI group=NaY3rKh.TYAwA jobname=Emach_noskip queue=batch ctime=1511917151 qtime=1511917151 etime=1511917151 start=1512041080 owner=NarURo/1JFHnI@h1 exec_host=c4/0-9 Resource_List.neednodes=1:ppn=10 Resource_List.nodect=1 Resource_List.nodes=1:ppn=10 Resource_List.vmem=500gb Resource_List.walltime=100:00:00 session=81618 total_execution_slots=10 unique_node_count=1 end=1512346115 Exit_status=1 resources_used.cput=1290983 resources_used.energy_used=0 resources_used.mem=1968448kb resources_used.vmem=235786284kb resources_used.walltime=84:43:54
+12/03/2017 20:11:31;Q;550184.m1.mason;queue=batch
+12/03/2017 20:13:34;S;550184.m1.mason;user=Nawjmqr3zMS6A group=NaQX5iEYB/AYc jobname=TCGAmap12 queue=batch ctime=1512349891 qtime=1512349891 etime=1512349891 start=1512350014 owner=Nawjmqr3zMS6A@h1 exec_host=c2/0-31 Resource_List.neednodes=1:ppn=32 Resource_List.nodect=1 Resource_List.nodes=1:ppn=32 Resource_List.vmem=500gb Resource_List.walltime=30:00:00 
+12/03/2017 21:17:02;Q;550185.m1.mason;queue=batch
+12/03/2017 21:17:02;Q;550186.m1.mason;queue=batch
+12/03/2017 21:17:02;Q;550187.m1.mason;queue=batch
+12/03/2017 21:17:03;Q;550188.m1.mason;queue=batch
+12/03/2017 21:17:03;Q;550189.m1.mason;queue=batch
+12/03/2017 21:17:03;Q;550190.m1.mason;queue=batch
+12/03/2017 21:17:03;Q;550191.m1.mason;queue=batch
+12/03/2017 21:17:03;Q;550192.m1.mason;queue=batch
+12/03/2017 21:17:04;Q;550193.m1.mason;queue=batch
+12/03/2017 21:17:04;Q;550194.m1.mason;queue=batch
+12/03/2017 21:17:04;Q;550195.m1.mason;queue=batch
+12/03/2017 21:17:04;Q;550196.m1.mason;queue=batch
+12/03/2017 21:17:04;Q;550197.m1.mason;queue=batch
+12/03/2017 21:17:04;Q;550198.m1.mason;queue=batch
+12/03/2017 21:17:05;Q;550199.m1.mason;queue=batch
+12/03/2017 21:17:05;Q;550200.m1.mason;queue=batch
+12/03/2017 21:17:05;Q;550201.m1.mason;queue=batch
+12/03/2017 21:17:05;Q;550202.m1.mason;queue=batch
+12/03/2017 21:17:05;Q;550203.m1.mason;queue=batch
+12/03/2017 21:17:05;Q;550204.m1.mason;queue=batch
+12/03/2017 21:17:06;Q;550205.m1.mason;queue=batch
+12/03/2017 21:17:06;Q;550206.m1.mason;queue=batch
+12/03/2017 21:17:06;Q;550207.m1.mason;queue=batch
+12/03/2017 21:17:06;Q;550208.m1.mason;queue=batch
+12/03/2017 21:17:06;Q;550209.m1.mason;queue=batch
+12/03/2017 21:17:06;Q;550210.m1.mason;queue=batch
+12/03/2017 21:17:07;Q;550211.m1.mason;queue=batch
+12/03/2017 21:17:07;Q;550212.m1.mason;queue=batch
+12/03/2017 21:17:07;Q;550213.m1.mason;queue=batch
+12/03/2017 21:17:07;Q;550214.m1.mason;queue=batch
+12/03/2017 21:17:07;Q;550215.m1.mason;queue=batch
+12/03/2017 21:17:07;Q;550216.m1.mason;queue=batch
+12/03/2017 21:17:08;Q;550217.m1.mason;queue=batch
+12/03/2017 21:17:08;Q;550218.m1.mason;queue=batch
+12/03/2017 21:17:08;Q;550219.m1.mason;queue=batch
+12/03/2017 21:17:08;Q;550220.m1.mason;queue=batch
+12/03/2017 21:17:08;Q;550221.m1.mason;queue=batch
+12/03/2017 21:17:09;Q;550222.m1.mason;queue=batch
+12/03/2017 21:17:09;Q;550223.m1.mason;queue=batch
+12/03/2017 21:17:09;Q;550224.m1.mason;queue=batch
+12/03/2017 21:17:09;Q;550225.m1.mason;queue=batch
+12/03/2017 21:17:09;Q;550226.m1.mason;queue=batch
+12/03/2017 21:17:09;Q;550227.m1.mason;queue=batch
+12/03/2017 21:17:10;Q;550228.m1.mason;queue=batch
+12/03/2017 21:17:10;Q;550229.m1.mason;queue=batch
+12/03/2017 21:17:10;Q;550230.m1.mason;queue=batch
+12/03/2017 21:17:10;Q;550231.m1.mason;queue=batch
+12/03/2017 21:17:10;Q;550232.m1.mason;queue=batch
+12/03/2017 21:17:10;Q;550233.m1.mason;queue=batch
+12/03/2017 21:17:11;Q;550234.m1.mason;queue=batch
+12/03/2017 21:17:11;Q;550235.m1.mason;queue=batch
+12/03/2017 21:17:11;Q;550236.m1.mason;queue=batch
+12/03/2017 21:17:11;Q;550237.m1.mason;queue=batch
+12/03/2017 21:17:11;Q;550238.m1.mason;queue=batch
+12/03/2017 21:17:12;Q;550239.m1.mason;queue=batch
+12/03/2017 21:17:12;Q;550240.m1.mason;queue=batch
+12/03/2017 21:17:12;Q;550241.m1.mason;queue=batch
+12/03/2017 21:17:12;Q;550242.m1.mason;queue=batch
+12/03/2017 21:17:12;Q;550243.m1.mason;queue=batch
+12/03/2017 21:17:13;Q;550244.m1.mason;queue=batch
+12/03/2017 21:17:13;Q;550245.m1.mason;queue=batch
+12/03/2017 21:17:13;Q;550246.m1.mason;queue=batch
+12/03/2017 21:17:13;Q;550247.m1.mason;queue=batch
+12/03/2017 21:17:13;Q;550248.m1.mason;queue=batch
+12/03/2017 21:17:14;Q;550249.m1.mason;queue=batch
+12/03/2017 21:17:14;Q;550250.m1.mason;queue=batch
+12/03/2017 21:17:14;Q;550251.m1.mason;queue=batch
+12/03/2017 21:17:14;Q;550252.m1.mason;queue=batch
+12/03/2017 21:17:14;Q;550253.m1.mason;queue=batch
+12/03/2017 21:17:15;Q;550254.m1.mason;queue=batch
+12/03/2017 21:17:15;Q;550255.m1.mason;queue=batch
+12/03/2017 21:17:15;Q;550256.m1.mason;queue=batch
+12/03/2017 21:17:15;Q;550257.m1.mason;queue=batch
+12/03/2017 21:17:15;Q;550258.m1.mason;queue=batch
+12/03/2017 21:17:15;Q;550259.m1.mason;queue=batch
+12/03/2017 21:17:16;Q;550260.m1.mason;queue=batch
+12/03/2017 21:17:16;Q;550261.m1.mason;queue=batch
+12/03/2017 21:17:16;Q;550262.m1.mason;queue=batch
+12/03/2017 21:17:16;Q;550263.m1.mason;queue=batch
+12/03/2017 21:17:16;Q;550264.m1.mason;queue=batch
+12/03/2017 21:17:16;Q;550265.m1.mason;queue=batch
+12/03/2017 21:17:17;Q;550266.m1.mason;queue=batch
+12/03/2017 21:17:17;Q;550267.m1.mason;queue=batch
+12/03/2017 21:17:17;Q;550268.m1.mason;queue=batch
+12/03/2017 21:17:17;Q;550269.m1.mason;queue=batch
+12/03/2017 21:17:17;Q;550270.m1.mason;queue=batch
+12/03/2017 21:17:17;Q;550271.m1.mason;queue=batch
+12/03/2017 21:17:18;Q;550272.m1.mason;queue=batch
+12/03/2017 21:17:18;Q;550273.m1.mason;queue=batch
+12/03/2017 21:17:18;Q;550274.m1.mason;queue=batch
+12/03/2017 21:17:18;Q;550275.m1.mason;queue=batch
+12/03/2017 21:17:18;Q;550276.m1.mason;queue=batch
+12/03/2017 21:17:19;Q;550277.m1.mason;queue=batch
+12/03/2017 21:17:19;Q;550278.m1.mason;queue=batch
+12/03/2017 21:17:19;Q;550279.m1.mason;queue=batch
+12/03/2017 21:17:19;Q;550280.m1.mason;queue=batch
+12/03/2017 21:17:19;Q;550281.m1.mason;queue=batch
+12/03/2017 21:17:20;Q;550282.m1.mason;queue=batch
+12/03/2017 21:17:20;Q;550283.m1.mason;queue=batch
+12/03/2017 21:17:20;Q;550284.m1.mason;queue=batch
+12/03/2017 21:18:16;D;550185.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:16;D;550186.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:16;D;550187.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:16;D;550188.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:16;D;550189.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:16;D;550190.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:16;D;550191.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:16;D;550192.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:16;D;550193.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:16;D;550194.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:16;D;550195.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:16;D;550196.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:16;D;550197.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:17;D;550198.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:17;D;550199.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:17;D;550200.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:17;D;550201.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:17;D;550202.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:17;D;550203.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:17;D;550204.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:17;D;550205.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:17;D;550206.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:17;D;550207.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550208.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550209.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550210.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550211.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550212.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550213.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550214.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550215.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550216.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550217.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550218.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550219.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550220.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550221.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:18;D;550222.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550223.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550224.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550225.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550226.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550227.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550228.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550229.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550230.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550231.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550232.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550233.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550234.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550235.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550236.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:19;D;550237.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550238.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550239.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550240.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550241.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550242.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550243.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550244.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550245.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550246.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550247.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550248.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550249.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550250.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550251.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:20;D;550252.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:21;D;550253.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:21;D;550254.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:21;D;550255.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:21;D;550256.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:21;D;550257.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:21;D;550258.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:21;D;550259.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:21;D;550260.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:21;D;550261.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:21;D;550262.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:21;D;550263.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:21;D;550264.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550265.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550266.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550267.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550268.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550269.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550270.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550271.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550272.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550273.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550274.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550275.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550276.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550277.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550278.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:22;D;550279.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:23;D;550280.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:23;D;550281.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:23;D;550282.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:23;D;550283.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:18:23;D;550284.m1.mason;requestor=Na.aZNgJvAgZE@h2
+12/03/2017 21:19:14;Q;550285.m1.mason;queue=batch
+12/03/2017 21:19:14;Q;550286.m1.mason;queue=batch
+12/03/2017 21:19:15;Q;550287.m1.mason;queue=batch
+12/03/2017 21:19:15;Q;550288.m1.mason;queue=batch
+12/03/2017 21:19:15;Q;550289.m1.mason;queue=batch
+12/03/2017 21:19:15;Q;550290.m1.mason;queue=batch
+12/03/2017 21:19:15;Q;550291.m1.mason;queue=batch
+12/03/2017 21:19:16;Q;550292.m1.mason;queue=batch
+12/03/2017 21:19:16;Q;550293.m1.mason;queue=batch
+12/03/2017 21:19:16;Q;550294.m1.mason;queue=batch
+12/03/2017 21:19:16;Q;550295.m1.mason;queue=batch
+12/03/2017 21:19:16;Q;550296.m1.mason;queue=batch
+12/03/2017 21:19:17;Q;550297.m1.mason;queue=batch
+12/03/2017 21:19:17;Q;550298.m1.mason;queue=batch
+12/03/2017 21:19:17;Q;550299.m1.mason;queue=batch
+12/03/2017 21:19:17;Q;550300.m1.mason;queue=batch
+12/03/2017 21:19:17;Q;550301.m1.mason;queue=batch
+12/03/2017 21:19:17;Q;550302.m1.mason;queue=batch
+12/03/2017 21:19:18;Q;550303.m1.mason;queue=batch
+12/03/2017 21:19:18;Q;550304.m1.mason;queue=batch
+12/03/2017 21:19:18;Q;550305.m1.mason;queue=batch
+12/03/2017 21:19:18;Q;550306.m1.mason;queue=batch
+12/03/2017 21:19:18;Q;550307.m1.mason;queue=batch
+12/03/2017 21:19:19;Q;550308.m1.mason;queue=batch
+12/03/2017 21:19:19;Q;550309.m1.mason;queue=batch
+12/03/2017 21:19:19;Q;550310.m1.mason;queue=batch
+12/03/2017 21:19:19;Q;550311.m1.mason;queue=batch
+12/03/2017 21:19:19;Q;550312.m1.mason;queue=batch
+12/03/2017 21:19:19;Q;550313.m1.mason;queue=batch
+12/03/2017 21:19:20;Q;550314.m1.mason;queue=batch
+12/03/2017 21:19:20;Q;550315.m1.mason;queue=batch
+12/03/2017 21:19:20;Q;550316.m1.mason;queue=batch
+12/03/2017 21:19:20;Q;550317.m1.mason;queue=batch
+12/03/2017 21:19:20;Q;550318.m1.mason;queue=batch
+12/03/2017 21:19:20;Q;550319.m1.mason;queue=batch
+12/03/2017 21:19:21;Q;550320.m1.mason;queue=batch
+12/03/2017 21:19:21;Q;550321.m1.mason;queue=batch
+12/03/2017 21:19:21;Q;550322.m1.mason;queue=batch
+12/03/2017 21:19:21;Q;550323.m1.mason;queue=batch
+12/03/2017 21:19:21;Q;550324.m1.mason;queue=batch
+12/03/2017 21:19:22;Q;550325.m1.mason;queue=batch
+12/03/2017 21:19:22;Q;550326.m1.mason;queue=batch
+12/03/2017 21:19:22;Q;550327.m1.mason;queue=batch
+12/03/2017 21:19:22;Q;550328.m1.mason;queue=batch
+12/03/2017 21:19:22;Q;550329.m1.mason;queue=batch
+12/03/2017 21:19:22;Q;550330.m1.mason;queue=batch
+12/03/2017 21:19:22;Q;550331.m1.mason;queue=batch
+12/03/2017 21:19:23;Q;550332.m1.mason;queue=batch
+12/03/2017 21:19:23;Q;550333.m1.mason;queue=batch
+12/03/2017 21:19:23;Q;550334.m1.mason;queue=batch
+12/03/2017 21:19:23;Q;550335.m1.mason;queue=batch
+12/03/2017 21:19:23;Q;550336.m1.mason;queue=batch
+12/03/2017 21:19:24;Q;550337.m1.mason;queue=batch
+12/03/2017 21:19:24;Q;550338.m1.mason;queue=batch
+12/03/2017 21:19:24;Q;550339.m1.mason;queue=batch
+12/03/2017 21:19:24;Q;550340.m1.mason;queue=batch
+12/03/2017 21:19:24;Q;550341.m1.mason;queue=batch
+12/03/2017 21:19:25;Q;550342.m1.mason;queue=batch
+12/03/2017 21:19:25;Q;550343.m1.mason;queue=batch
+12/03/2017 21:19:25;Q;550344.m1.mason;queue=batch
+12/03/2017 21:19:25;Q;550345.m1.mason;queue=batch
+12/03/2017 21:19:25;Q;550346.m1.mason;queue=batch
+12/03/2017 21:19:25;Q;550347.m1.mason;queue=batch
+12/03/2017 21:19:26;Q;550348.m1.mason;queue=batch
+12/03/2017 21:19:26;Q;550349.m1.mason;queue=batch
+12/03/2017 21:19:26;Q;550350.m1.mason;queue=batch
+12/03/2017 21:19:26;Q;550351.m1.mason;queue=batch
+12/03/2017 21:19:26;Q;550352.m1.mason;queue=batch
+12/03/2017 21:19:26;Q;550353.m1.mason;queue=batch
+12/03/2017 21:19:27;Q;550354.m1.mason;queue=batch
+12/03/2017 21:19:27;Q;550355.m1.mason;queue=batch
+12/03/2017 21:19:27;Q;550356.m1.mason;queue=batch
+12/03/2017 21:19:27;Q;550357.m1.mason;queue=batch
+12/03/2017 21:19:27;Q;550358.m1.mason;queue=batch
+12/03/2017 21:19:28;Q;550359.m1.mason;queue=batch
+12/03/2017 21:19:28;Q;550360.m1.mason;queue=batch
+12/03/2017 21:19:28;Q;550361.m1.mason;queue=batch
+12/03/2017 21:19:28;Q;550362.m1.mason;queue=batch
+12/03/2017 21:19:28;Q;550363.m1.mason;queue=batch
+12/03/2017 21:19:28;Q;550364.m1.mason;queue=batch
+12/03/2017 21:19:29;Q;550365.m1.mason;queue=batch
+12/03/2017 21:19:29;Q;550366.m1.mason;queue=batch
+12/03/2017 21:19:29;Q;550367.m1.mason;queue=batch
+12/03/2017 21:19:29;Q;550368.m1.mason;queue=batch
+12/03/2017 21:19:29;Q;550369.m1.mason;queue=batch
+12/03/2017 21:19:30;Q;550370.m1.mason;queue=batch
+12/03/2017 21:19:30;Q;550371.m1.mason;queue=batch
+12/03/2017 21:19:30;Q;550372.m1.mason;queue=batch
+12/03/2017 21:19:30;Q;550373.m1.mason;queue=batch
+12/03/2017 21:19:30;Q;550374.m1.mason;queue=batch
+12/03/2017 21:19:30;Q;550375.m1.mason;queue=batch
+12/03/2017 21:19:31;Q;550376.m1.mason;queue=batch
+12/03/2017 21:19:31;Q;550377.m1.mason;queue=batch
+12/03/2017 21:19:31;Q;550378.m1.mason;queue=batch
+12/03/2017 21:19:31;Q;550379.m1.mason;queue=batch
+12/03/2017 21:19:32;Q;550380.m1.mason;queue=batch
+12/03/2017 21:19:32;Q;550381.m1.mason;queue=batch
+12/03/2017 21:19:32;Q;550382.m1.mason;queue=batch
+12/03/2017 21:19:32;Q;550383.m1.mason;queue=batch
+12/03/2017 21:19:32;Q;550384.m1.mason;queue=batch
+12/03/2017 21:21:05;S;550294.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1686_raxml.sh queue=batch ctime=1512353956 qtime=1512353956 etime=1512353956 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c3/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 21:21:05;S;550295.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1687_raxml.sh queue=batch ctime=1512353956 qtime=1512353956 etime=1512353956 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c3/4-7 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 21:21:05;S;550296.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1688_raxml.sh queue=batch ctime=1512353956 qtime=1512353956 etime=1512353956 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c3/8-11 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 21:21:05;S;550297.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1689_raxml.sh queue=batch ctime=1512353957 qtime=1512353957 etime=1512353957 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c4/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 21:21:05;S;550298.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1690_raxml.sh queue=batch ctime=1512353957 qtime=1512353957 etime=1512353957 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c4/4-7 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 21:21:05;S;550299.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1691_raxml.sh queue=batch ctime=1512353957 qtime=1512353957 etime=1512353957 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c4/8-11 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 21:21:05;S;550300.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1692_raxml.sh queue=batch ctime=1512353957 qtime=1512353957 etime=1512353957 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c4/12-15 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 21:21:05;S;550301.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1693_raxml.sh queue=batch ctime=1512353957 qtime=1512353957 etime=1512353957 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c4/16-19 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 21:21:05;S;550302.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1694_raxml.sh queue=batch ctime=1512353957 qtime=1512353957 etime=1512353957 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c4/20-23 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 21:21:06;S;550303.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1695_raxml.sh queue=batch ctime=1512353958 qtime=1512353958 etime=1512353958 start=1512354066 owner=Na.aZNgJvAgZE@h2 exec_host=c4/24-27 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 21:52:04;E;550295.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1687_raxml.sh queue=batch ctime=1512353956 qtime=1512353956 etime=1512353956 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c3/4-7 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=18724 total_execution_slots=4 unique_node_count=1 end=1512355924 Exit_status=0 resources_used.cput=1818 resources_used.energy_used=0 resources_used.mem=25228kb resources_used.vmem=249876kb resources_used.walltime=00:30:59
+12/03/2017 21:53:19;S;550304.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1696_raxml.sh queue=batch ctime=1512353958 qtime=1512353958 etime=1512353958 start=1512355999 owner=Na.aZNgJvAgZE@h2 exec_host=c17/10-13 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 22:01:36;E;550302.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1694_raxml.sh queue=batch ctime=1512353957 qtime=1512353957 etime=1512353957 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c4/20-23 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=37975 total_execution_slots=4 unique_node_count=1 end=1512356496 Exit_status=0 resources_used.cput=2400 resources_used.energy_used=0 resources_used.mem=25824kb resources_used.vmem=250436kb resources_used.walltime=00:40:31
+12/03/2017 22:02:45;E;545431.m1.mason;user=NarURo/1JFHnI group=NaY3rKh.TYAwA jobname=Fdamk_noskip queue=batch ctime=1511874267 qtime=1511874267 etime=1511874267 start=1511996518 owner=NarURo/1JFHnI@h2 exec_host=c17/0-9 Resource_List.neednodes=1:ppn=10 Resource_List.nodect=1 Resource_List.nodes=1:ppn=10 Resource_List.vmem=500gb Resource_List.walltime=100:00:00 session=81201 total_execution_slots=10 unique_node_count=1 end=1512356565 Exit_status=-11 resources_used.cput=1114404 resources_used.energy_used=0 resources_used.mem=197920916kb resources_used.vmem=205450080kb resources_used.walltime=100:00:44
+12/03/2017 22:03:13;E;550301.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1693_raxml.sh queue=batch ctime=1512353957 qtime=1512353957 etime=1512353957 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c4/16-19 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=37946 total_execution_slots=4 unique_node_count=1 end=1512356593 Exit_status=0 resources_used.cput=2491 resources_used.energy_used=0 resources_used.mem=26024kb resources_used.vmem=250708kb resources_used.walltime=00:42:07
+12/03/2017 22:03:21;E;550297.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1689_raxml.sh queue=batch ctime=1512353957 qtime=1512353957 etime=1512353957 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c4/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=37850 total_execution_slots=4 unique_node_count=1 end=1512356601 Exit_status=0 resources_used.cput=2505 resources_used.energy_used=0 resources_used.mem=25552kb resources_used.vmem=250264kb resources_used.walltime=00:42:16
+12/03/2017 22:03:23;S;550305.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1697_raxml.sh queue=batch ctime=1512353958 qtime=1512353958 etime=1512353958 start=1512356603 owner=Na.aZNgJvAgZE@h2 exec_host=c3/4-7 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 22:03:23;S;550306.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1698_raxml.sh queue=batch ctime=1512353958 qtime=1512353958 etime=1512353958 start=1512356603 owner=Na.aZNgJvAgZE@h2 exec_host=c1/2-5 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 22:03:23;S;550307.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1699_raxml.sh queue=batch ctime=1512353958 qtime=1512353958 etime=1512353958 start=1512356603 owner=Na.aZNgJvAgZE@h2 exec_host=c1/6-9 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 22:06:28;E;550303.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1695_raxml.sh queue=batch ctime=1512353958 qtime=1512353958 etime=1512353958 start=1512354066 owner=Na.aZNgJvAgZE@h2 exec_host=c4/24-27 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=37996 total_execution_slots=4 unique_node_count=1 end=1512356788 Exit_status=0 resources_used.cput=2669 resources_used.energy_used=0 resources_used.mem=26040kb resources_used.vmem=250896kb resources_used.walltime=00:45:22
+12/03/2017 22:08:05;S;550308.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1700_raxml.sh queue=batch ctime=1512353958 qtime=1512353959 etime=1512353959 start=1512356885 owner=Na.aZNgJvAgZE@h2 exec_host=c4/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 22:12:53;E;550304.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1696_raxml.sh queue=batch ctime=1512353958 qtime=1512353958 etime=1512353958 start=1512355999 owner=Na.aZNgJvAgZE@h2 exec_host=c17/10-13 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=18707 total_execution_slots=4 unique_node_count=1 end=1512357173 Exit_status=0 resources_used.cput=1138 resources_used.energy_used=0 resources_used.mem=25008kb resources_used.vmem=249584kb resources_used.walltime=00:19:34
+12/03/2017 22:14:48;S;550309.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1701_raxml.sh queue=batch ctime=1512353959 qtime=1512353959 etime=1512353959 start=1512357288 owner=Na.aZNgJvAgZE@h2 exec_host=c5/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 22:20:40;E;550300.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1692_raxml.sh queue=batch ctime=1512353957 qtime=1512353957 etime=1512353957 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c4/12-15 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=37922 total_execution_slots=4 unique_node_count=1 end=1512357640 Exit_status=0 resources_used.cput=3523 resources_used.energy_used=0 resources_used.mem=26152kb resources_used.vmem=251036kb resources_used.walltime=00:59:35
+12/03/2017 22:21:31;S;550310.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1702_raxml.sh queue=batch ctime=1512353959 qtime=1512353959 etime=1512353959 start=1512357691 owner=Na.aZNgJvAgZE@h2 exec_host=c4/12-15 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 22:33:34;Q;550385.m1.mason;queue=batch
+12/03/2017 22:33:34;Q;550386.m1.mason;queue=batch
+12/03/2017 22:33:35;Q;550387.m1.mason;queue=batch
+12/03/2017 22:33:35;Q;550388.m1.mason;queue=batch
+12/03/2017 22:33:35;Q;550389.m1.mason;queue=batch
+12/03/2017 22:33:35;Q;550390.m1.mason;queue=batch
+12/03/2017 22:33:35;Q;550391.m1.mason;queue=batch
+12/03/2017 22:35:35;E;550305.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1697_raxml.sh queue=batch ctime=1512353958 qtime=1512353958 etime=1512353958 start=1512356603 owner=Na.aZNgJvAgZE@h2 exec_host=c3/4-7 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=19540 total_execution_slots=4 unique_node_count=1 end=1512358535 Exit_status=0 resources_used.cput=1906 resources_used.energy_used=0 resources_used.mem=25252kb resources_used.vmem=249920kb resources_used.walltime=00:32:12
+12/03/2017 22:35:37;S;550311.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1703_raxml.sh queue=batch ctime=1512353959 qtime=1512353959 etime=1512353959 start=1512358537 owner=Na.aZNgJvAgZE@h2 exec_host=c3/4-7 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 22:36:19;E;550298.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1690_raxml.sh queue=batch ctime=1512353957 qtime=1512353957 etime=1512353957 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c4/4-7 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=37870 total_execution_slots=4 unique_node_count=1 end=1512358579 Exit_status=0 resources_used.cput=4467 resources_used.energy_used=0 resources_used.mem=26312kb resources_used.vmem=251032kb resources_used.walltime=01:15:14
+12/03/2017 22:37:38;S;550312.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1704_raxml.sh queue=batch ctime=1512353959 qtime=1512353959 etime=1512353959 start=1512358658 owner=Na.aZNgJvAgZE@h2 exec_host=c4/4-7 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 22:38:18;E;550296.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1688_raxml.sh queue=batch ctime=1512353956 qtime=1512353956 etime=1512353956 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c3/8-11 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=18758 total_execution_slots=4 unique_node_count=1 end=1512358698 Exit_status=0 resources_used.cput=4614 resources_used.energy_used=0 resources_used.mem=26792kb resources_used.vmem=251596kb resources_used.walltime=01:17:12
+12/03/2017 22:39:39;S;550313.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1705_raxml.sh queue=batch ctime=1512353959 qtime=1512353959 etime=1512353959 start=1512358779 owner=Na.aZNgJvAgZE@h2 exec_host=c3/8-11 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 22:39:48;E;550309.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1701_raxml.sh queue=batch ctime=1512353959 qtime=1512353959 etime=1512353959 start=1512357288 owner=Na.aZNgJvAgZE@h2 exec_host=c5/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=26207 total_execution_slots=4 unique_node_count=1 end=1512358788 Exit_status=0 resources_used.cput=1477 resources_used.energy_used=0 resources_used.mem=25696kb resources_used.vmem=337020kb resources_used.walltime=00:24:59
+12/03/2017 22:40:29;E;550294.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1686_raxml.sh queue=batch ctime=1512353956 qtime=1512353956 etime=1512353956 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c3/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=18704 total_execution_slots=4 unique_node_count=1 end=1512358829 Exit_status=0 resources_used.cput=4743 resources_used.energy_used=0 resources_used.mem=26596kb resources_used.vmem=251500kb resources_used.walltime=01:19:24
+12/03/2017 22:41:40;S;550314.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1706_raxml.sh queue=batch ctime=1512353960 qtime=1512353960 etime=1512353960 start=1512358900 owner=Na.aZNgJvAgZE@h2 exec_host=c3/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 22:41:40;S;550315.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1707_raxml.sh queue=batch ctime=1512353960 qtime=1512353960 etime=1512353960 start=1512358900 owner=Na.aZNgJvAgZE@h2 exec_host=c5/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 22:43:29;E;550299.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1691_raxml.sh queue=batch ctime=1512353957 qtime=1512353957 etime=1512353957 start=1512354065 owner=Na.aZNgJvAgZE@h2 exec_host=c4/8-11 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=37895 total_execution_slots=4 unique_node_count=1 end=1512359009 Exit_status=0 resources_used.cput=4912 resources_used.energy_used=0 resources_used.mem=26916kb resources_used.vmem=251608kb resources_used.walltime=01:22:24
+12/03/2017 22:43:41;S;550316.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1708_raxml.sh queue=batch ctime=1512353960 qtime=1512353960 etime=1512353960 start=1512359021 owner=Na.aZNgJvAgZE@h2 exec_host=c4/8-11 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 22:53:34;E;550306.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1698_raxml.sh queue=batch ctime=1512353958 qtime=1512353958 etime=1512353958 start=1512356603 owner=Na.aZNgJvAgZE@h2 exec_host=c1/2-5 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=26841 total_execution_slots=4 unique_node_count=1 end=1512359614 Exit_status=0 resources_used.cput=2975 resources_used.energy_used=0 resources_used.mem=27536kb resources_used.vmem=252160kb resources_used.walltime=00:50:11
+12/03/2017 22:53:46;S;550317.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1709_raxml.sh queue=batch ctime=1512353960 qtime=1512353960 etime=1512353960 start=1512359626 owner=Na.aZNgJvAgZE@h2 exec_host=c1/2-5 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 22:55:44;E;550308.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1700_raxml.sh queue=batch ctime=1512353958 qtime=1512353959 etime=1512353959 start=1512356885 owner=Na.aZNgJvAgZE@h2 exec_host=c4/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=39452 total_execution_slots=4 unique_node_count=1 end=1512359744 Exit_status=0 resources_used.cput=2831 resources_used.energy_used=0 resources_used.mem=26268kb resources_used.vmem=254804kb resources_used.walltime=00:47:39
+12/03/2017 22:55:47;S;550318.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1710_raxml.sh queue=batch ctime=1512353960 qtime=1512353960 etime=1512353960 start=1512359747 owner=Na.aZNgJvAgZE@h2 exec_host=c4/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 23:00:02;Q;550392.m1.mason;queue=batch
+12/03/2017 23:00:02;Q;550393.m1.mason;queue=batch
+12/03/2017 23:00:02;Q;550394.m1.mason;queue=batch
+12/03/2017 23:00:02;Q;550395.m1.mason;queue=batch
+12/03/2017 23:00:02;Q;550396.m1.mason;queue=batch
+12/03/2017 23:00:02;Q;550397.m1.mason;queue=batch
+12/03/2017 23:00:02;Q;550398.m1.mason;queue=batch
+12/03/2017 23:00:02;Q;550399.m1.mason;queue=batch
+12/03/2017 23:00:21;E;550313.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1705_raxml.sh queue=batch ctime=1512353959 qtime=1512353959 etime=1512353959 start=1512358779 owner=Na.aZNgJvAgZE@h2 exec_host=c3/8-11 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=20107 total_execution_slots=4 unique_node_count=1 end=1512360021 Exit_status=0 resources_used.cput=1217 resources_used.energy_used=0 resources_used.mem=25180kb resources_used.vmem=249824kb resources_used.walltime=00:20:42
+12/03/2017 23:00:29;S;550319.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1711_raxml.sh queue=batch ctime=1512353960 qtime=1512353960 etime=1512353960 start=1512360029 owner=Na.aZNgJvAgZE@h2 exec_host=c3/8-11 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 23:16:22;E;550310.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1702_raxml.sh queue=batch ctime=1512353959 qtime=1512353959 etime=1512353959 start=1512357691 owner=Na.aZNgJvAgZE@h2 exec_host=c4/12-15 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=39714 total_execution_slots=4 unique_node_count=1 end=1512360982 Exit_status=0 resources_used.cput=3273 resources_used.energy_used=0 resources_used.mem=26320kb resources_used.vmem=336412kb resources_used.walltime=00:54:51
+12/03/2017 23:16:36;S;550320.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1712_raxml.sh queue=batch ctime=1512353961 qtime=1512353961 etime=1512353961 start=1512360996 owner=Na.aZNgJvAgZE@h2 exec_host=c4/12-15 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 23:17:21;E;550311.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1703_raxml.sh queue=batch ctime=1512353959 qtime=1512353959 etime=1512353959 start=1512358537 owner=Na.aZNgJvAgZE@h2 exec_host=c3/4-7 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=19890 total_execution_slots=4 unique_node_count=1 end=1512361041 Exit_status=0 resources_used.cput=2482 resources_used.energy_used=0 resources_used.mem=25836kb resources_used.vmem=250604kb resources_used.walltime=00:41:44
+12/03/2017 23:18:37;S;550321.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1713_raxml.sh queue=batch ctime=1512353961 qtime=1512353961 etime=1512353961 start=1512361117 owner=Na.aZNgJvAgZE@h2 exec_host=c3/4-7 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 23:28:31;E;550307.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1699_raxml.sh queue=batch ctime=1512353958 qtime=1512353958 etime=1512353958 start=1512356603 owner=Na.aZNgJvAgZE@h2 exec_host=c1/6-9 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=26861 total_execution_slots=4 unique_node_count=1 end=1512361711 Exit_status=0 resources_used.cput=5087 resources_used.energy_used=0 resources_used.mem=26304kb resources_used.vmem=251192kb resources_used.walltime=01:25:07
+12/03/2017 23:30:02;Q;550400.m1.mason;queue=batch
+12/03/2017 23:30:02;Q;550401.m1.mason;queue=batch
+12/03/2017 23:30:02;Q;550402.m1.mason;queue=batch
+12/03/2017 23:30:02;Q;550403.m1.mason;queue=batch
+12/03/2017 23:30:27;S;550322.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1714_raxml.sh queue=batch ctime=1512353961 qtime=1512353961 etime=1512353961 start=1512361827 owner=Na.aZNgJvAgZE@h2 exec_host=c1/6-9 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 23:35:21;E;550318.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1710_raxml.sh queue=batch ctime=1512353960 qtime=1512353960 etime=1512353960 start=1512359747 owner=Na.aZNgJvAgZE@h2 exec_host=c4/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=40468 total_execution_slots=4 unique_node_count=1 end=1512362121 Exit_status=0 resources_used.cput=2354 resources_used.energy_used=0 resources_used.mem=25592kb resources_used.vmem=250300kb resources_used.walltime=00:39:34
+12/03/2017 23:35:22;S;550323.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1715_raxml.sh queue=batch ctime=1512353961 qtime=1512353961 etime=1512353961 start=1512362122 owner=Na.aZNgJvAgZE@h2 exec_host=c4/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 23:36:32;E;550312.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1704_raxml.sh queue=batch ctime=1512353959 qtime=1512353959 etime=1512353959 start=1512358658 owner=Na.aZNgJvAgZE@h2 exec_host=c4/4-7 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=39987 total_execution_slots=4 unique_node_count=1 end=1512362192 Exit_status=0 resources_used.cput=3520 resources_used.energy_used=0 resources_used.mem=26240kb resources_used.vmem=251108kb resources_used.walltime=00:58:54
+12/03/2017 23:37:23;S;550324.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1716_raxml.sh queue=batch ctime=1512353961 qtime=1512353961 etime=1512353961 start=1512362243 owner=Na.aZNgJvAgZE@h2 exec_host=c4/4-7 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 23:37:39;E;550314.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1706_raxml.sh queue=batch ctime=1512353960 qtime=1512353960 etime=1512353960 start=1512358900 owner=Na.aZNgJvAgZE@h2 exec_host=c3/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=20317 total_execution_slots=4 unique_node_count=1 end=1512362259 Exit_status=0 resources_used.cput=3342 resources_used.energy_used=0 resources_used.mem=25872kb resources_used.vmem=250700kb resources_used.walltime=00:55:59
+12/03/2017 23:39:24;S;550325.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1717_raxml.sh queue=batch ctime=1512353962 qtime=1512353962 etime=1512353962 start=1512362364 owner=Na.aZNgJvAgZE@h2 exec_host=c3/0-3 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
+12/03/2017 23:40:31;E;547193.m1.mason;user=NarURo/1JFHnI group=NaY3rKh.TYAwA jobname=Eflak_tblastx-recblast queue=batch ctime=1511916850 qtime=1511916850 etime=1511916850 start=1512002402 owner=NarURo/1JFHnI@h1 exec_host=c1/0-1,10-17 Resource_List.neednodes=1:ppn=10 Resource_List.nodect=1 Resource_List.nodes=1:ppn=10 Resource_List.vmem=500gb Resource_List.walltime=100:00:00 session=39367 total_execution_slots=10 unique_node_count=1 end=1512362431 Exit_status=-11 resources_used.cput=1789140 resources_used.energy_used=0 resources_used.mem=1777876kb resources_used.vmem=209954228kb resources_used.walltime=100:00:29
+12/03/2017 23:41:28;E;550319.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1711_raxml.sh queue=batch ctime=1512353960 qtime=1512353960 etime=1512353960 start=1512360029 owner=Na.aZNgJvAgZE@h2 exec_host=c3/8-11 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 session=20605 total_execution_slots=4 unique_node_count=1 end=1512362488 Exit_status=0 resources_used.cput=2439 resources_used.energy_used=0 resources_used.mem=26060kb resources_used.vmem=250820kb resources_used.walltime=00:40:59
+12/03/2017 23:43:26;S;550326.m1.mason;user=Na.aZNgJvAgZE group=Natl3pU94CyZo jobname=parasaccharibacter1718_raxml.sh queue=batch ctime=1512353962 qtime=1512353962 etime=1512353962 start=1512362606 owner=Na.aZNgJvAgZE@h2 exec_host=c1/0-1,10-11 Resource_List.neednodes=1:ppn=4 Resource_List.nodect=1 Resource_List.nodes=1:ppn=4 Resource_List.vmem=2gb Resource_List.walltime=24:00:00 
