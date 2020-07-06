@@ -1,16 +1,19 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+This script takes the Slurm accounting files (may be with anonymized data) and
+extracts relavent job data, stores the data in CSV format for later use.
 
-This is a temporary script file.
+Author: Vanamala Venkataswamy
 """
 
 import os
 import pandas as pd 
 from sys import exit
 
-pd.options.mode.use_inf_as_na = True
-
+# Function to clean raw Slurm acct files and create CSV data
+# Input: Two parameters 1. raw data path - path to raw Slurm files
+#                       2. path to store cleaned data
+# output: Generates CSV files in the directory 'cleaned_data_path'
 def cleanupData(raw_data_path, cleaned_data_path):
     
     dir_conts = os.listdir(raw_data_path)
@@ -22,7 +25,7 @@ def cleanupData(raw_data_path, cleaned_data_path):
         
         #remove file if it exists
         csv_filename = cleaned_data_path + '/' + csv_filename + '.csv'
-        #os.remove(filename)
+    
         #create new csv file
         f = open(csv_filename, 'w+')
         
@@ -35,7 +38,7 @@ def cleanupData(raw_data_path, cleaned_data_path):
     
         with open(file) as jobs:                                                                                          
     
-            job_reader = pd.read_csv(jobs, delimiter=';', na_values = 'NA').iloc[:, 3:]
+            job_reader = pd.read_csv(jobs, delimiter=';').iloc[:, 3:]
             
             for row in range(len(job_reader)):
                 cols = str(job_reader.loc[row][0]).split(' ')
@@ -68,10 +71,21 @@ def cleanupData(raw_data_path, cleaned_data_path):
                                                     cols[9].split('=')[1]))
                     f.write("\n")   
                 f.flush()
-            
+
+           
 if __name__ == "__main__":
+    
+    #Specify data paths here
     raw_data_path = '/Users/vanareddy/Job-Data/IU/Mason-Oct-Dec-AcctFiles'
     cleaned_data_path = '/Users/vanareddy/Job-Data/IU-Data'
+    
+    #Check if paths exist
+    if os.path.exists(raw_data_path) == False:
+        print("Raw data path does not exist")
+        exit()
+    if os.path.exists(cleaned_data_path) == False:
+        print("Path to store cleaned data does not exist")
+        exit()
     
     cleanupData(raw_data_path, cleaned_data_path)
 
